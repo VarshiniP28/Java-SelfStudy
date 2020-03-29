@@ -3,7 +3,7 @@ A simple neural network that recognise handwritten characters
 
 The neural network is written in C++. Instead, the GUI and the application of the neural network is written in Java (that involves loading MNINST images, scaling and converting them to an usable format and so on...) . C++ neural network functionalities are accessed from Java through JNI. 
 
-Training/Test data to be used is present in the folder called "trainerset"
+Training/Test data to be used can be found here: http://yann.lecun.com/exdb/mnist/
 
 ## How to build the application
 
