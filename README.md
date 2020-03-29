@@ -1,4 +1,5 @@
 # Java-SelfStudy
+Team members - Varshini P(1RV18IS058),Soundarya R(1RV18IS051) and Sinchana R(1RV18IS049)
 A simple neural network that recognise handwritten characters
 
 The neural network is written in C++. Instead, the GUI and the application of the neural network is written in Java (that involves loading MNINST images, scaling and converting them to an usable format and so on...) . C++ neural network functionalities are accessed from Java through JNI. 
